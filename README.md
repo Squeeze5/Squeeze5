@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Squeeze5 👋
 
-<!--
-**Squeeze5/Squeeze5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Web, Game, and App Developer** with experience building engaging digital experiences across multiple platforms.
+
+- 🕹️ Crafting games, web apps, and more
+- 💻 Languages: **C++**, **Python**, **HTML**, **CSS**, **JavaScript**, **SQL**
+- 🔧 Always exploring new technologies and creative solutions
+
+## 🌐 Featured Project
+
+Check out my current project:  
+[Clarity To-Do](https://clarity-todo.netlify.app/) – A clean, intuitive task management app (work in progress!)
+
+## 📫 Get In Touch
+
+- Website: [clarity-todo.netlify.app](https://clarity-todo.netlify.app/)
+
+---
+
+Thanks for stopping by!  
+✨ Stay tuned for more awesome projects.
