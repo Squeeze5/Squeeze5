@@ -13,7 +13,7 @@ I'm a passionate **Web, Game, and App Developer** with experience building engag
 ## 🌐 Featured Project
 
 Check out my current projects:  
-[Clarity To-Do](https://clarity-todo.netlify.app/) – A clean, intuitive task management app (work in progress!)
+[Clarity To-Do](https://clarity-todo.com/) – A clean, intuitive task management app (work in progress!)
 
 [NyronBot](https://nyronbot.xyz/) - Tired of managing multiple bots? NyronBot combines powerful features into one sleek package. NyronBot is a feature-rich Discord bot designed to enhance your server with moderation, automation, music, economy, tickets, and more! All for free.
 
